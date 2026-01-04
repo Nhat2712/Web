@@ -1,0 +1,917 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\implementation\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\implementation\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\repositories\\implementation\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\repositories\\implementation\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\repositories\\implementation\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\repositories\\implementation\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\carmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\carmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\carmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\carmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\carmodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\carmodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\brand\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\brand\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\implementation\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\implementation\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\implementation\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\implementation\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222080426_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222080426_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222095945_update7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222095945_update7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222095716_update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222095716_update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222095512_update5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222095512_update5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222093949_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222093949_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|c:\\web\\lab8\\lab8\\migrations\\20251222092827_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB7BB04-2155-423B-8A8B-BCD0A9A2CE54}|Lab8\\Lab8.csproj|solutionrelative:lab8\\migrations\\20251222092827_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T05:20:34.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T05:20:34.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab8\\appsettings.json",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\appsettings.json",
+              "RelativeToolTip": "Lab8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T05:20:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T11:08:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:07:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T11:07:07.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8\\Program.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Program.cs",
+              "RelativeToolTip": "Lab8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:00:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Implementation\\OrderDetailService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\OrderDetailService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Implementation\\OrderDetailService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:00:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:00:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:56:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Lab8\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA7wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:53:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Lab8\\Repositories\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "Lab8\\Repositories\\Implementation\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:51:53.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Implementation\\OrderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:51:54.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:28:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:27:55.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:24:43.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Lab8\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:26:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:26:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA0wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:23:33.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:23:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\Order.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\Order.cs",
+              "RelativeToolTip": "Lab8\\Models\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:21:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Car\\Details.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Details.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Car\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:14:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Car\\Edit.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Edit.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Car\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:13:36.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:07:38.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\CarModel\\Details.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Details.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\CarModel\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:00:30.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20251222095945_update7.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095945_update7.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222095945_update7.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095945_update7.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222095945_update7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:59:45.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20251222095716_update6.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095716_update6.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222095716_update6.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095716_update6.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222095716_update6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:57:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20251222095512_update5.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095512_update5.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222095512_update5.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222095512_update5.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222095512_update5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:55:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Car\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T09:45:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20251222093949_update4.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222093949_update4.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222093949_update4.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222093949_update4.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222093949_update4.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:39:49.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\Customer.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\Customer.cs",
+              "RelativeToolTip": "Lab8\\Models\\Customer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:30:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251222092827_update3.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222092827_update3.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222092827_update3.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222092827_update3.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222092827_update3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:28:27.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\Car.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\Car.cs",
+              "RelativeToolTip": "Lab8\\Models\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:18:07.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:07:29.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Interfaces\\IBrandService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Interfaces\\IBrandService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:13:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Lab8\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeToolTip": "Lab8\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:13:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:07:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T09:03:17.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T09:06:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\Brand.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\Brand.cs",
+              "RelativeToolTip": "Lab8\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:05:39.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T09:04:57.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Brand\\Detail.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Detail.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Brand\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T09:04:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\CarModel\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\CarModel\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T08:07:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251222080426_update2.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222080426_update2.cs",
+              "RelativeDocumentMoniker": "Lab8\\Migrations\\20251222080426_update2.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Migrations\\20251222080426_update2.cs",
+              "RelativeToolTip": "Lab8\\Migrations\\20251222080426_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:04:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "Lab8\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Models\\CarModel.cs",
+              "RelativeToolTip": "Lab8\\Models\\CarModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:03:09.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Interfaces\\ICarModelService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Interfaces\\ICarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:01:16.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\CarModelService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Implementation\\CarModelService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\CarModelService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Implementation\\CarModelService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:01:12.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "Lab8\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeToolTip": "Lab8\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:01:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "Lab8\\Repositories\\Implementation\\CarModelRepository.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\CarModelRepository.cs",
+              "RelativeToolTip": "Lab8\\Repositories\\Implementation\\CarModelRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:00:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarModelController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\CarModelController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\CarModelController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\CarModelController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\CarModelController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:52:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\CarModel\\Edit.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Edit.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\CarModel\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T07:48:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\CarModel\\Create.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\CarModel\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\CarModel\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T07:48:33.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Lab8\\Repositories\\Implementation\\BrandRepository.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Repositories\\Implementation\\BrandRepository.cs",
+              "RelativeToolTip": "Lab8\\Repositories\\Implementation\\BrandRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA6wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:45:36.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\BrandService.cs",
+              "RelativeDocumentMoniker": "Lab8\\Services\\Implementation\\BrandService.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Services\\Implementation\\BrandService.cs",
+              "RelativeToolTip": "Lab8\\Services\\Implementation\\BrandService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:45:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Lab8\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAhwDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:45:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Web\\Lab8\\Lab8\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T07:44:34.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

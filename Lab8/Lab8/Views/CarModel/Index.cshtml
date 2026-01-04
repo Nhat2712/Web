@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Lab8.Models.CarModel>
+
+@{
+    ViewData["Title"] = "Car Model List";
+}
+
+<h1>Car Model List</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Car Model</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Model Name</th>
+            <th>Brand</th>
+            <th style="width:200px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Brand?.Name</td>
+                <td>
+                    <a class="btn btn-success btn-sm"
+                       asp-action="Details"
+                       asp-route-id="@item.Id">Detail</a>
+
+                    <a class="btn btn-warning btn-sm"
+                       asp-action="Edit"
+                       asp-route-id="@item.Id">Edit</a>
+
+                    <a class="btn btn-danger btn-sm"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Lab8.Models.Brand>
+
+@{
+    ViewData["Title"] = "Brand List";
+}
+
+<h1>Brand List</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Brand</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Brand Name</th>
+            <th>Country</th>
+            <th>Image</th> <!-- thêm cột ảnh -->
+            <th style="width:200px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var brand in Model)
+        {
+            <tr>
+                <td>@brand.Id</td>
+                <td>@brand.Name</td>
+                <td>@brand.Country</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(brand.ImageUrl))
+                    {
+                        <img src="@brand.ImageUrl" alt="@brand.Name" style="height:50px;" />
+                    }
+                </td>
+                <td>
+                    <a class="btn btn-success btn-sm"
+                       asp-action="Detail"
+                       asp-route-id="@brand.Id">Details</a>
+
+                    <a class="btn btn-warning btn-sm"
+                       asp-action="Edit"
+                       asp-route-id="@brand.Id">Edit</a>
+
+                    <a class="btn btn-danger btn-sm"
+                       asp-action="Delete"
+                       asp-route-id="@brand.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

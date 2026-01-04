@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quản lý sản phẩm</title>
+</head>
+<body>
+    <h2>Thêm sản phẩm</h2>
+
+    <!-- Category dropdown -->
+    <label>Danh mục:</label>
+    <select id="categorySelect">
+        <option value="">Đang tải danh mục...</option>
+    </select>
+
+    <br /><br />
+
+    <!-- Product form -->
+    <form id="productForm">
+        <label>Tên sản phẩm:</label>
+        <input type="text" id="productName" required />
+        <br /><br />
+
+        <label>Giá:</label>
+        <input type="number" id="productPrice" required min="0" />
+        <br /><br />
+
+        <label>Ảnh sản phẩm:</label>
+        <input type="file" id="productImage" accept="image/*" required />
+        <br /><br />
+
+        <button type="submit">Gửi sản phẩm</button>
+    </form>
+
+    <p id="resultMessage"></p>
+
+    <script>
+        const API_GET_CATEGORIES = "/api/categories";
+        const API_POST_PRODUCTS = "/api/products";
+
+        function logDebug(title, data) {
+            console.log(`🔍 [${title}]`, data);
+        }
+
+        // 1. Load categories
+        function loadCategories() {
+            const select = document.getElementById("categorySelect");
+            select.innerHTML = `<option value="">Đang tải danh mục...</option>`;
+
+            const xhr = new XMLHttpRequest();
+            xhr.open("GET", API_GET_CATEGORIES);
+            xhr.onload = () => {
+                logDebug("GET /api/categories response", xhr.responseText);
+
+                if (xhr.status === 200) {
+                    const categories = JSON.parse(xhr.responseText);
+                    select.innerHTML = `<option value="">-- Chọn danh mục --</option>`;
+                    categories.forEach(c => {
+                        select.innerHTML += `<option value="${c.id}">${c.name}</option>`;
+                    });
+                } else {
+                    select.innerHTML = `<option value="">❌ Không thể tải danh mục</option>`;
+                }
+            };
+
+            xhr.onerror = () => {
+                logDebug("GET /api/categories error", "Network error");
+                select.innerHTML = `<option>❌ Lỗi kết nối API</option>`;
+            };
+
+            xhr.send();
+        }
+
+        // 2. Submit product
+        document.getElementById("productForm").addEventListener("submit", e => {
+            e.preventDefault();
+            const msg = document.getElementById("resultMessage");
+            const btn = document.querySelector("#productForm button");
+
+            const name = productName.value.trim();
+            const price = productPrice.value;
+            const categoryId = categorySelect.value;
+            const file = productImage.files[0];
+
+            // Client-side validation nâng cao
+            if (!name || price < 0 || !categoryId || !file) {
+                msg.textContent = "⚠ Vui lòng nhập đầy đủ thông tin hợp lệ!";
+                msg.style.color = "orange";
+                return;
+            }
+
+            btn.disabled = true;
+            btn.textContent = "Đang gửi...";
+
+            const formData = new FormData();
+            formData.append("name", name);
+            formData.append("price", price);
+            formData.append("categoryId", categoryId);
+            formData.append("image", file);
+
+            const xhr = new XMLHttpRequest();
+            xhr.open("POST", API_POST_PRODUCTS);
+            xhr.onload = () => {
+                logDebug("POST /api/products status", xhr.status);
+                logDebug("POST /api/products body", xhr.responseText);
+
+                btn.disabled = false;
+                btn.textContent = "Gửi sản phẩm";
+
+                let response = {};
+                try { response = JSON.parse(xhr.responseText); } catch { }
+
+                // Xử lý HTTP Status Code
+                if (xhr.status === 201 || xhr.status === 200) {
+                    msg.textContent = "✅ Thêm sản phẩm thành công!";
+                    msg.style.color = "green";
+                }
+                else if (xhr.status === 400) {
+                    msg.textContent = `🚫 Lỗi dữ liệu đầu vào | ErrorCode: ${response.errorCode || "N/A"}`;
+                    msg.style.color = "red";
+                }
+                else if (xhr.status === 409) {
+                    // Conflict — ví dụ trùng tên sản phẩm
+                    const err = response.errorCode;
+                    if (err === "DUPLICATE_NAME") {
+                        msg.textContent = "⚠ Tên sản phẩm đã tồn tại!";
+                    } else if (err === "INVALID_CATEGORY") {
+                        msg.textContent = "⚠ Danh mục không hợp lệ!";
+                    } else {
+                        msg.textContent = `⚠ Conflict error | ErrorCode: ${err || "Không xác định"}`;
+                    }
+                    msg.style.color = "red";
+                }
+                else if (xhr.status === 500) {
+                    msg.textContent = "🔥 Lỗi server, vui lòng kiểm tra backend!";
+                    msg.style.color = "darkred";
+                }
+                else {
+                    msg.textContent = `❗ Lỗi không xác định | HTTP ${xhr.status} | ErrorCode: ${response.errorCode || "N/A"}`;
+                    msg.style.color = "gray";
+                }
+            };
+
+            xhr.onerror = () => {
+                logDebug("POST /api/products error", "Network error");
+                btn.disabled = false;
+                btn.textContent = "Gửi sản phẩm";
+                msg.textContent = "❌ Lỗi kết nối API khi gửi sản phẩm!";
+                msg.style.color = "red";
+            };
+
+            xhr.send(formData);
+        });
+
+        // Auto run
+        loadCategories();
+    </script>
+
+</body>
+</html>
